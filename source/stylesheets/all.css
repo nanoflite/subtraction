@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+.opgave {
+    padding: 5px;
+    margin: 5px;
+    font-size: 40px;
+    text-align: center;
+    border: 1px dotted gray;
+    position: relative;
+    float: left;
+    width: 30%;
+}
+
+.opgave .toon {
+    font-size: 30px;
+}
+
+.opgave td {
+    border: 1px solid black;
+}
+
+.opgave th {
+    border: 1px solid black;
+}
+
+
+.opgave .result {
+    border-top: 3px solid black;
+}
+
+.opgave table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.opgave .lenen {
+    background-color: #c0c0c0;
+}
+
+.opgave .operator {
+    position: relative;
+    left: -2em;
+    top: -1.5em;
+}
