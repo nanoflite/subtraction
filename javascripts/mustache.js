@@ -5,6 +5,7 @@
 
 /*global define: false*/
 
+
 (function (global, factory) {
   if (typeof exports === "object" && exports) {
     factory(exports); // CommonJS
